@@ -11,6 +11,9 @@ checkout = git clone 'git@github.com:puzlet/coffeescript' 'coffeescript'
 [puzlet.github.io]
 checkout = git clone 'git@github.com:puzlet/puzlet.github.io' 'puzlet.github.io'
 
+[ace]
+checkout = git clone 'git@github.com:puzlet/ace' 'ace'
+
 [ace-comments]
 checkout = git clone 'git@github.com:puzlet/ace-comments' 'ace-comments'
 
@@ -43,6 +46,9 @@ checkout = git clone 'git@github.com:puzlet/utility' 'utility'
 
 [view-finder]
 checkout = git clone 'git@github.com:puzlet/view-finder' 'view-finder'
+
+[widgets]
+checkout = git clone 'git@github.com:puzlet/widgets' 'widgets'
 
 [blab]
 checkout = git clone 'git@github.com:puzlet/blab' 'blab'
